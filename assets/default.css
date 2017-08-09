@@ -6,3 +6,8 @@ body
 	font-size: 18px;
 	color: white;
 }
+
+img
+{
+	max-width: 300px;
+}
